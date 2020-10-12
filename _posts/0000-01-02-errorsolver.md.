@@ -1,6 +1,8 @@
-console.log("Hello Vincent")
-alert("Welcome")
+## MY FIRST POST
 
-for(i = 0; i <= 10; i++){
-  console.log(i)
-}
+- [ ] Table
+---
+Name : Vincent
+Age : 17
+Hobby : Solve Error
+---
