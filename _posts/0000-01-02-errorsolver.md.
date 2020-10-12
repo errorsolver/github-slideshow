@@ -1,0 +1,6 @@
+console.log("Hello Vincent")
+alert("Welcome")
+
+for(i = 0; i <= 10; i++){
+  console.log(i)
+}
