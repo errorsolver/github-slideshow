@@ -2,4 +2,4 @@ git fetch origin
 git checkout -b mycode origin/mycode
 git merge master
 
-console.log("Hello Vincent")
+print("Hello Vincent")
