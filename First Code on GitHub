@@ -1,5 +1,1 @@
-git fetch origin
-git checkout -b mycode origin/mycode
-git merge master
-
 print("Hello Vincent")
